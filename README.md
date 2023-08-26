@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kuаnyshbek Zhumаtаy
+- 👀 I’m interested in Web
+- 🌱 I’m currently learning JS
