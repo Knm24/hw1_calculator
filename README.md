@@ -1,3 +1,0 @@
-- 👋 Hi 
-- 👀 I’m interested in Web
-- 🌱 I’m currently learning JS
